@@ -1,0 +1,10 @@
+Put all of these files into your python directory. 
+DO NOT TRY TO VIEW THE FILES. 
+When in your directory you'll want to install all packages by going to your terminal and inputting "python InstallDeps.py" (Don't mind any errors, it's fine)
+After they finish installing you need to input "python KronOS.py" to open the operating system.
+When ready to complete the puzzle, quit the application and input "python EP.py" into your terminal.
+
+If you have trouble, report to me.
+
+
+- @Jayceisded
