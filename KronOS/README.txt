@@ -10,7 +10,7 @@
                                                                                           
                                                                                           
                                                                                           
-HIYA!!!     To utilize this file you must first install python then run "InstallDeps" Before running the main exe file. 
+HIYA!!!     To utilize this file you must first install python then run "InstallDeps" Before running the main file. 
 
 
 WARNING - DO NOT MESS WITH ANY OF THE OTHER FILES AS IT MAY RUIN THE ̶P̶U̶Z̶Z̶L̶E̶  PROGRAM PERMANENTLY. Don't even try running them. They will break without fail.
